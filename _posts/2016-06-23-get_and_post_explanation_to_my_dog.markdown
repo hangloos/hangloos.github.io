@@ -14,7 +14,7 @@ Example - Someone goes to /newyork on a website. This would alert your program a
 
 When a user enters information into a website, this information will get "posted" somewhere. This will start a place in our program based on where its posted to. If its posted to /newyork then post '/newyork' will run in our program and all the details after will work. These will also create things or reference to somewhere else so that we can ultimately show that first person something. So essentially we are going and getting information that was entered and using that to go somewhere to see it. The get and post of our program control what we look for and use to be able to ultimately show someone something on the internet. 
 
-It is important to remember that the file that displays things can use the information provided on the get or post part that was previously used. This will let us display things that are in our current program. 
+It is important to remember that the file that displays things can use the information provided on the get or post part that was previously used. It can only use the information that follows the get or post though. This will let us display things that are in our current program. 
 
 Hope this was helpful Harper!
 
