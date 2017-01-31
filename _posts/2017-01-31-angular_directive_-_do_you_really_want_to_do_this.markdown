@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular Directive - Do you really want to do this?"
-date:   2017-01-31 03:09:25 +0000
+date:   2017-01-30 22:09:26 -0500
 ---
 
 
