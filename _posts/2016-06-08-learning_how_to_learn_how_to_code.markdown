@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Learning how to learn how to code"
-date:   2016-06-08 01:13:40 +0000
+date:   2016-06-07 21:13:40 -0400
 ---
 
-I am currently on week 17 of my coding journey and I am still improving on things that I thought I learned a long time ago. I am referring to the process of learning something. Throughout working through Learn Verified through the Flatiron School, I have realized I did not know what I was doing when I graduated from college 5 years ago. When I began my lessons with Flatiron, I was rushing. I was trying to get things passing as fast as possible. I wanted to see more green! (passing tests) The deeper I got into the coding, the more I realized I was missing something. The big picture. 
+Throughout working through Learn Verified through the Flatiron School, I have realized I did not know what I was doing when I graduated from college 5 years ago. When I began my lessons with Flatiron, I was rushing. I was trying to get things passing as fast as possible. I wanted to see more green! (passing tests) The deeper I got into the coding, the more I realized I was missing something. The big picture. 
 
 Learning how to code, is 100% not about speed. It is about understanding how every little thing works in everything you do. If you see something that doesn't make 100% sense, then you can't move on till you understand it. This process NEEDS to include talking out the vocabulary, the concepts and how the programs are running to yourself. Yes, talking to yourself. 
 
